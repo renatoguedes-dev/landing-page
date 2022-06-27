@@ -8,6 +8,8 @@ body {
   background-color: #1F2937;
   padding: 12px 420px;
   padding-bottom: 130px;
+  display: flex;
+  justify-content: center;
 }
 
 .hero-logo {
